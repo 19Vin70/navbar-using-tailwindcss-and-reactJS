@@ -4,7 +4,7 @@ import Header from './Header'
 function App() {
   return (
     <>
-      <div className="bg-white">
+      <div className="bg-gray-700">
         <Header />
 
         <div className='flex items-center justify-center px-5 h-screen'>
